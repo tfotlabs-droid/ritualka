@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pastelBlue: #e8f3ff;
+  --color-softGray: #f5f7fa;
+  --color-accent: #7aa6d8;
+}
+
+html, body, #root {
+  height: 100%;
+}
